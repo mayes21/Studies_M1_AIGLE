@@ -1,0 +1,7 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj04\bin\Debug\IG-Proj04.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj04\bin\Debug\IG-Proj04.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj04\obj\x86\Debug\IG_Proj04.remoteUserForm.resources
+C:\Users\Amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj04\obj\x86\Debug\IG_Proj04.Properties.Resources.resources
+C:\Users\Amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj04\obj\x86\Debug\IG-Proj04.csproj.GenerateResource.Cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj04\obj\x86\Debug\IG-Proj04.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj04\obj\x86\Debug\IG-Proj04.pdb

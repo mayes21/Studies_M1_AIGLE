@@ -1,0 +1,7 @@
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj02\bin\Debug\IG-Proj02.exe
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj02\bin\Debug\IG-Proj02.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj02\obj\x86\Debug\IG_Proj02.frmSaisiesBoutons.resources
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj02\obj\x86\Debug\IG_Proj02.Properties.Resources.resources
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj02\obj\x86\Debug\IG-Proj02.csproj.GenerateResource.Cache
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj02\obj\x86\Debug\IG-Proj02.exe
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj02\obj\x86\Debug\IG-Proj02.pdb

@@ -1,0 +1,7 @@
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj01\bin\Debug\IG-Proj01.exe
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj01\bin\Debug\IG-Proj01.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj01\obj\x86\Debug\IG_Proj01.Properties.Resources.resources
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj01\obj\x86\Debug\IG-Proj01.csproj.GenerateResource.Cache
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj01\obj\x86\Debug\IG-Proj01.exe
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj01\obj\x86\Debug\IG-Proj01.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\InterfaceGraphique\IG-Proj01\obj\x86\Debug\IG_Proj01.Form1.resources
