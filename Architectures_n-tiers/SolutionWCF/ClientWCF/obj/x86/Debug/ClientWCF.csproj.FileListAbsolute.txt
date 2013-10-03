@@ -1,0 +1,8 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\ClientWCF\bin\Debug\ClientWCF.exe.config
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\ClientWCF\bin\Debug\ClientWCF.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\ClientWCF\bin\Debug\ClientWCF.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\ClientWCF\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\ClientWCF\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\ClientWCF\obj\x86\Debug\ClientWCF.csprojResolveAssemblyReference.cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\ClientWCF\obj\x86\Debug\ClientWCF.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\ClientWCF\obj\x86\Debug\ClientWCF.pdb

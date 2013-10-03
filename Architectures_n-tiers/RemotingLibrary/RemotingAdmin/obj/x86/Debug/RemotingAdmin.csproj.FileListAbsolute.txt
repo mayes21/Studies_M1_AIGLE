@@ -1,0 +1,7 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary\RemotingAdmin\bin\Debug\RemotingAdmin.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary\RemotingAdmin\bin\Debug\RemotingAdmin.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary\RemotingAdmin\bin\Debug\RemotingInterfaces.dll
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary\RemotingAdmin\bin\Debug\RemotingInterfaces.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary\RemotingAdmin\obj\x86\Debug\RemotingAdmin.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary\RemotingAdmin\obj\x86\Debug\RemotingAdmin.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary\RemotingAdmin\obj\x86\Debug\RemotingAdmin.csprojResolveAssemblyReference.cache

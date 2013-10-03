@@ -1,0 +1,7 @@
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\RemotingLibrary\RemotingServeur\bin\Debug\RemotingServeur.exe
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\RemotingLibrary\RemotingServeur\bin\Debug\RemotingServeur.pdb
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\RemotingLibrary\RemotingServeur\bin\Debug\RemotingInterfaces.dll
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\RemotingLibrary\RemotingServeur\bin\Debug\RemotingInterfaces.pdb
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\RemotingLibrary\RemotingServeur\obj\x86\Debug\RemotingServeur.csprojResolveAssemblyReference.cache
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\RemotingLibrary\RemotingServeur\obj\x86\Debug\RemotingServeur.exe
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\RemotingLibrary\RemotingServeur\obj\x86\Debug\RemotingServeur.pdb

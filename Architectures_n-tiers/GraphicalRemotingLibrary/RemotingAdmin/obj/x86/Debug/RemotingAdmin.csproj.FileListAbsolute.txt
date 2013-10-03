@@ -1,0 +1,10 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\bin\Debug\RemotingAdmin.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\bin\Debug\RemotingAdmin.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\obj\x86\Debug\RemotingAdmin.Properties.Resources.resources
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\obj\x86\Debug\RemotingAdmin.csproj.GenerateResource.Cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\obj\x86\Debug\RemotingAdmin.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\obj\x86\Debug\RemotingAdmin.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\bin\Debug\RemotingInterfaces.dll
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\bin\Debug\RemotingInterfaces.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\obj\x86\Debug\RemotingAdmin.csprojResolveAssemblyReference.cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAdmin\obj\x86\Debug\RemotingAdmin.RemoteAdmin.resources

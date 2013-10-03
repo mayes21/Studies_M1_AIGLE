@@ -1,0 +1,8 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsole\bin\Debug\WCFConsole.exe.config
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsole\bin\Debug\WCFConsole.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsole\bin\Debug\WCFConsole.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsole\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsole\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsole\obj\x86\Debug\WCFConsole.csprojResolveAssemblyReference.cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsole\obj\x86\Debug\WCFConsole.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsole\obj\x86\Debug\WCFConsole.pdb

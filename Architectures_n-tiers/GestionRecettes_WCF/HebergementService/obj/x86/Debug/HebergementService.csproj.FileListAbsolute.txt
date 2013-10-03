@@ -1,0 +1,10 @@
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\obj\x86\Debug\HebergementService.csprojResolveAssemblyReference.cache
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\bin\Debug\HebergementService.exe
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\bin\Debug\HebergementService.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\bin\Debug\ServiceRecettes.dll
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\bin\Debug\Share.dll
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\bin\Debug\ServiceRecettes.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\bin\Debug\Share.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\obj\x86\Debug\HebergementService.exe
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\obj\x86\Debug\HebergementService.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\HebergementService\bin\Debug\HebergementService.exe.config

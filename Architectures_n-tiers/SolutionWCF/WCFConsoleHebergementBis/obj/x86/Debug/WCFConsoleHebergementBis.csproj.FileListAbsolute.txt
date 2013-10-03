@@ -1,0 +1,8 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsoleHebergementBis\bin\Debug\WCFConsoleHebergementBis.exe.config
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsoleHebergementBis\bin\Debug\WCFConsoleHebergementBis.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsoleHebergementBis\bin\Debug\WCFConsoleHebergementBis.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsoleHebergementBis\bin\Debug\WcfServiceLibrary.dll
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsoleHebergementBis\bin\Debug\WcfServiceLibrary.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsoleHebergementBis\obj\x86\Debug\WCFConsoleHebergementBis.csprojResolveAssemblyReference.cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsoleHebergementBis\obj\x86\Debug\WCFConsoleHebergementBis.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\SolutionWCF\WCFConsoleHebergementBis\obj\x86\Debug\WCFConsoleHebergementBis.pdb

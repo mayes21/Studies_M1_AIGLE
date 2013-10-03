@@ -1,0 +1,8 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceAbonne\bin\Debug\IG_WebServiceAbonne.exe.config
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceAbonne\bin\Debug\IG_WebServiceAbonne.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceAbonne\bin\Debug\IG_WebServiceAbonne.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceAbonne\obj\x86\Debug\IG_WebServiceAbonne.Form1.resources
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceAbonne\obj\x86\Debug\IG_WebServiceAbonne.Properties.Resources.resources
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceAbonne\obj\x86\Debug\IG_WebServiceAbonne.csproj.GenerateResource.Cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceAbonne\obj\x86\Debug\IG_WebServiceAbonne.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceAbonne\obj\x86\Debug\IG_WebServiceAbonne.pdb

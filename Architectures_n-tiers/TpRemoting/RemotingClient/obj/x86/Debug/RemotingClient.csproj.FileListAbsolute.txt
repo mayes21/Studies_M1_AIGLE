@@ -1,0 +1,7 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\ExempleTpRemoting\RemotingClient\bin\Debug\RemotingClient.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\ExempleTpRemoting\RemotingClient\bin\Debug\RemotingClient.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\ExempleTpRemoting\RemotingClient\bin\Debug\RemotingSamples.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\ExempleTpRemoting\RemotingClient\bin\Debug\RemotingSamples.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\ExempleTpRemoting\RemotingClient\obj\x86\Debug\RemotingClient.csprojResolveAssemblyReference.cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\ExempleTpRemoting\RemotingClient\obj\x86\Debug\RemotingClient.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\ExempleTpRemoting\RemotingClient\obj\x86\Debug\RemotingClient.pdb

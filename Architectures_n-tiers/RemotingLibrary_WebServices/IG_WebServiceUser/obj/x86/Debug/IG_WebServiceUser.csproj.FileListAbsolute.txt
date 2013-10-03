@@ -1,0 +1,9 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceUser\bin\Debug\IG_WebServiceUser.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceUser\bin\Debug\IG_WebServiceUser.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceUser\obj\x86\Debug\IG_WebServiceUser.Form1.resources
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceUser\obj\x86\Debug\IG_WebServiceUser.Properties.Resources.resources
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceUser\obj\x86\Debug\IG_WebServiceUser.csproj.GenerateResource.Cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceUser\obj\x86\Debug\IG_WebServiceUser.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceUser\obj\x86\Debug\IG_WebServiceUser.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceUser\bin\Debug\IG_WebServiceUser.exe.config
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\IG_WebServiceUser\obj\x86\Debug\IG_WebServiceUser.csprojResolveAssemblyReference.cache

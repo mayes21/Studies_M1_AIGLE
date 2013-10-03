@@ -1,0 +1,9 @@
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingAbonne\bin\Debug\RemotingAbonne.exe
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingAbonne\bin\Debug\RemotingAbonne.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingAbonne\bin\Debug\RemotingInterfaces.dll
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingAbonne\bin\Debug\RemotingInterfaces.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingAbonne\obj\x86\Debug\RemotingAbonne.Properties.Resources.resources
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingAbonne\obj\x86\Debug\RemotingAbonne.csproj.GenerateResource.Cache
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingAbonne\obj\x86\Debug\RemotingAbonne.exe
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingAbonne\obj\x86\Debug\RemotingAbonne.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingAbonne\obj\x86\Debug\RemotingAbonne.csprojResolveAssemblyReference.cache

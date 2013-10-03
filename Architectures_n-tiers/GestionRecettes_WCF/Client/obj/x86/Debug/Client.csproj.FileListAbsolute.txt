@@ -1,0 +1,10 @@
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\bin\Debug\Client.exe.config
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\bin\Debug\Client.exe
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\bin\Debug\Client.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\obj\x86\Debug\Client.exe
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\obj\x86\Debug\Client.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\bin\Debug\ServiceRecettes.dll
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\bin\Debug\Share.dll
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\bin\Debug\ServiceRecettes.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\bin\Debug\Share.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache

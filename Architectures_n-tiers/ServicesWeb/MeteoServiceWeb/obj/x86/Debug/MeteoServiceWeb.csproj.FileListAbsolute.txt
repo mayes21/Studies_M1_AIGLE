@@ -1,0 +1,12 @@
+c:\users\amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\MeteoServiceWeb\bin\Debug\MeteoServiceWeb.exe.config
+c:\users\amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\MeteoServiceWeb\bin\Debug\MeteoServiceWeb.exe
+c:\users\amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\MeteoServiceWeb\bin\Debug\MeteoServiceWeb.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\MeteoServiceWeb\obj\x86\Debug\MeteoServiceWeb.exe
+c:\users\amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\MeteoServiceWeb\obj\x86\Debug\MeteoServiceWeb.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\MeteoServiceWeb\obj\x86\Debug\MeteoServiceWeb.csprojResolveAssemblyReference.cache
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\MeteoServiceWeb\bin\Debug\MeteoServiceWeb.exe.config
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\MeteoServiceWeb\obj\x86\Debug\MeteoServiceWeb.exe
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\MeteoServiceWeb\obj\x86\Debug\MeteoServiceWeb.pdb
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\MeteoServiceWeb\bin\Debug\MeteoServiceWeb.exe
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\MeteoServiceWeb\bin\Debug\MeteoServiceWeb.pdb
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\MeteoServiceWeb\obj\x86\Debug\MeteoServiceWeb.csprojResolveAssemblyReference.cache

@@ -1,0 +1,6 @@
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Share\bin\Debug\Share.dll.config
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Share\bin\Debug\Share.dll
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Share\bin\Debug\Share.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Share\obj\Debug\Share.dll
+c:\users\amayas\documents\visual studio 2010\Projects\GestionRecettes_WCF\Share\obj\Debug\Share.pdb
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\GestionRecettes_WCF\Share\obj\Debug\Share.csprojResolveAssemblyReference.cache

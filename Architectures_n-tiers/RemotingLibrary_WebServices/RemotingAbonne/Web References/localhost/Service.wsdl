@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="utf-8"?>
+<wsdl:definitions xmlns:soapenc="http://schemas.xmlsoap.org/soap/encoding/" xmlns:mime="http://schemas.xmlsoap.org/wsdl/mime/" xmlns:tns="http://tempuri.org/" xmlns:s="http://www.w3.org/2001/XMLSchema" xmlns:soap="http://schemas.xmlsoap.org/wsdl/soap/" xmlns:tm="http://microsoft.com/wsdl/mime/textMatching/" xmlns:http="http://schemas.xmlsoap.org/wsdl/http/" xmlns:soap12="http://schemas.xmlsoap.org/wsdl/soap12/" targetNamespace="http://tempuri.org/" xmlns:wsdl="http://schemas.xmlsoap.org/wsdl/">
+  <wsdl:types>
+    <s:schema elementFormDefault="qualified" targetNamespace="http://tempuri.org/">
+      <s:element name="SearchByISBNWS">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="isbn" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchByISBNWSResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SearchByISBNWSResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchByAuhtorWS">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="auteur" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="SearchByAuhtorWSResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="SearchByAuhtorWSResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CommenterLivreWS">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="titre" type="s:string" />
+            <s:element minOccurs="0" maxOccurs="1" name="comment" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+      <s:element name="CommenterLivreWSResponse">
+        <s:complexType>
+          <s:sequence>
+            <s:element minOccurs="0" maxOccurs="1" name="CommenterLivreWSResult" type="s:string" />
+          </s:sequence>
+        </s:complexType>
+      </s:element>
+    </s:schema>
+  </wsdl:types>
+  <wsdl:message name="SearchByISBNWSSoapIn">
+    <wsdl:part name="parameters" element="tns:SearchByISBNWS" />
+  </wsdl:message>
+  <wsdl:message name="SearchByISBNWSSoapOut">
+    <wsdl:part name="parameters" element="tns:SearchByISBNWSResponse" />
+  </wsdl:message>
+  <wsdl:message name="SearchByAuhtorWSSoapIn">
+    <wsdl:part name="parameters" element="tns:SearchByAuhtorWS" />
+  </wsdl:message>
+  <wsdl:message name="SearchByAuhtorWSSoapOut">
+    <wsdl:part name="parameters" element="tns:SearchByAuhtorWSResponse" />
+  </wsdl:message>
+  <wsdl:message name="CommenterLivreWSSoapIn">
+    <wsdl:part name="parameters" element="tns:CommenterLivreWS" />
+  </wsdl:message>
+  <wsdl:message name="CommenterLivreWSSoapOut">
+    <wsdl:part name="parameters" element="tns:CommenterLivreWSResponse" />
+  </wsdl:message>
+  <wsdl:portType name="ServiceSoap">
+    <wsdl:operation name="SearchByISBNWS">
+      <wsdl:input message="tns:SearchByISBNWSSoapIn" />
+      <wsdl:output message="tns:SearchByISBNWSSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="SearchByAuhtorWS">
+      <wsdl:input message="tns:SearchByAuhtorWSSoapIn" />
+      <wsdl:output message="tns:SearchByAuhtorWSSoapOut" />
+    </wsdl:operation>
+    <wsdl:operation name="CommenterLivreWS">
+      <wsdl:input message="tns:CommenterLivreWSSoapIn" />
+      <wsdl:output message="tns:CommenterLivreWSSoapOut" />
+    </wsdl:operation>
+  </wsdl:portType>
+  <wsdl:binding name="ServiceSoap" type="tns:ServiceSoap">
+    <soap:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SearchByISBNWS">
+      <soap:operation soapAction="http://tempuri.org/SearchByISBNWS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchByAuhtorWS">
+      <soap:operation soapAction="http://tempuri.org/SearchByAuhtorWS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CommenterLivreWS">
+      <soap:operation soapAction="http://tempuri.org/CommenterLivreWS" style="document" />
+      <wsdl:input>
+        <soap:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:binding name="ServiceSoap12" type="tns:ServiceSoap">
+    <soap12:binding transport="http://schemas.xmlsoap.org/soap/http" />
+    <wsdl:operation name="SearchByISBNWS">
+      <soap12:operation soapAction="http://tempuri.org/SearchByISBNWS" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="SearchByAuhtorWS">
+      <soap12:operation soapAction="http://tempuri.org/SearchByAuhtorWS" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+    <wsdl:operation name="CommenterLivreWS">
+      <soap12:operation soapAction="http://tempuri.org/CommenterLivreWS" style="document" />
+      <wsdl:input>
+        <soap12:body use="literal" />
+      </wsdl:input>
+      <wsdl:output>
+        <soap12:body use="literal" />
+      </wsdl:output>
+    </wsdl:operation>
+  </wsdl:binding>
+  <wsdl:service name="Service">
+    <wsdl:port name="ServiceSoap" binding="tns:ServiceSoap">
+      <soap:address location="http://localhost:56584/WebServiceLibrary/Service.asmx" />
+    </wsdl:port>
+    <wsdl:port name="ServiceSoap12" binding="tns:ServiceSoap12">
+      <soap12:address location="http://localhost:56584/WebServiceLibrary/Service.asmx" />
+    </wsdl:port>
+  </wsdl:service>
+</wsdl:definitions>

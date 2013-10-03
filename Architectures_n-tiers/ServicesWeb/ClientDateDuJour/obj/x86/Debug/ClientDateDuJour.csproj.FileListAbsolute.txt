@@ -1,0 +1,10 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\ClientDateDuJour\bin\Debug\ClientDateDuJour.exe.config
+C:\Users\Amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\ClientDateDuJour\bin\Debug\ClientDateDuJour.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\ClientDateDuJour\bin\Debug\ClientDateDuJour.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\ClientDateDuJour\obj\x86\Debug\ClientDateDuJour.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\MeteoServiceWeb\ClientDateDuJour\obj\x86\Debug\ClientDateDuJour.pdb
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\ClientDateDuJour\bin\Debug\ClientDateDuJour.exe.config
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\ClientDateDuJour\obj\x86\Debug\ClientDateDuJour.exe
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\ClientDateDuJour\obj\x86\Debug\ClientDateDuJour.pdb
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\ClientDateDuJour\bin\Debug\ClientDateDuJour.exe
+C:\Users\Amayas\Documents\Visual Studio 2010\Projects\ServiceWeb\ClientDateDuJour\bin\Debug\ClientDateDuJour.pdb

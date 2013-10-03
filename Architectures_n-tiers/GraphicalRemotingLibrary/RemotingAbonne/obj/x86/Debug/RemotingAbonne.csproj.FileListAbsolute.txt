@@ -1,0 +1,10 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\bin\Debug\RemotingAbonne.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\bin\Debug\RemotingAbonne.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\obj\x86\Debug\RemotingAbonne.RemoteAbonne.resources
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\obj\x86\Debug\RemotingAbonne.Properties.Resources.resources
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\obj\x86\Debug\RemotingAbonne.csproj.GenerateResource.Cache
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\obj\x86\Debug\RemotingAbonne.exe
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\obj\x86\Debug\RemotingAbonne.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\bin\Debug\RemotingInterfaces.dll
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\bin\Debug\RemotingInterfaces.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\GraphicalRemotingLibrary\RemotingAbonne\obj\x86\Debug\RemotingAbonne.csprojResolveAssemblyReference.cache

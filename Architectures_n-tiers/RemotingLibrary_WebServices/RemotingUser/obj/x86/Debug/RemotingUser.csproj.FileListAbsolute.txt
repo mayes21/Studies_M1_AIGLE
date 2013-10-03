@@ -1,0 +1,9 @@
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingUser\bin\Debug\RemotingUser.exe
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingUser\bin\Debug\RemotingUser.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingUser\bin\Debug\RemotingInterfaces.dll
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingUser\bin\Debug\RemotingInterfaces.pdb
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingUser\obj\x86\Debug\RemotingUser.Properties.Resources.resources
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingUser\obj\x86\Debug\RemotingUser.csproj.GenerateResource.Cache
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingUser\obj\x86\Debug\RemotingUser.exe
+c:\users\amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingUser\obj\x86\Debug\RemotingUser.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemotingUser\obj\x86\Debug\RemotingUser.csprojResolveAssemblyReference.cache

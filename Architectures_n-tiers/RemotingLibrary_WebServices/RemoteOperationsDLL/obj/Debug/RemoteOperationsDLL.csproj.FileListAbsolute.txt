@@ -1,0 +1,7 @@
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemoteOperationsDLL\bin\Debug\RemoteOperationsDLL.dll
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemoteOperationsDLL\bin\Debug\RemoteOperationsDLL.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemoteOperationsDLL\bin\Debug\RemotingInterfaces.dll
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemoteOperationsDLL\bin\Debug\RemotingInterfaces.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemoteOperationsDLL\obj\Debug\RemoteOperationsDLL.dll
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemoteOperationsDLL\obj\Debug\RemoteOperationsDLL.pdb
+C:\Users\Amayas\documents\visual studio 2010\Projects\RemotingLibrary_WebServices\RemoteOperationsDLL\obj\Debug\RemoteOperationsDLL.csprojResolveAssemblyReference.cache
